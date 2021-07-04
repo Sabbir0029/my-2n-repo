@@ -46,3 +46,21 @@
   display: flex;
 }
 /****two-section end***/
+/***therd-section strat***/
+.text{
+  font-size: 30px;
+  color: red;
+  margin-bottom: 20px;
+  margin-top: 150px;
+}
+.frist{
+  display: flex;
+}
+.lest-section{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+
+
+/***therd-section end***/
