@@ -1,0 +1,41 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Poppins', sans-serif;
+}
+.one-section{
+  display: flex;
+  height: 100vh;
+  width: 100%;
+}
+.text-pic{
+  width: 50%;
+  margin-top: 7%;
+  margin-left: 5%;
+}
+.text-pic img{
+  width: 80%;
+  border-radius: 20%;
+}
+.text-pic h1{
+  font-size: 50px;
+  color: rgb(228, 19, 165);
+  padding-bottom: 30px;
+}
+.text-pic h2{
+  font-size: 25px;
+  margin-bottom: 15px;
+} .text-pic span{
+  color: rgb(255, 0, 212);
+}
+.text-pic p{
+  margin-bottom: 20px;
+}
+.btn{
+  text-decoration: none;
+  background-image: linear-gradient(rgb(255, 94, 0),rgb(255, 0, 119));
+  padding: 10px 40px;
+  border-radius: 20px;
+  font-weight: 700;
+  color: white;
+}
