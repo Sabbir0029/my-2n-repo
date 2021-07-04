@@ -4,9 +4,11 @@
   font-family: 'Poppins', sans-serif;
 }
 .one-section{
-  display: flex;
-  width: 100%;
-  margin-bottom: 150px;
+  background-image: url(img/aa1.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  display: flex; 
 }
 .text-pic{
   width: 50%;
@@ -16,6 +18,7 @@
 .text-pic img{
   width: 80%;
   border-radius: 20%;
+  box-shadow: 25px 25px 50px   rgb(48, 44, 44);
 }
 .text-pic h1{
   font-size: 50px;
@@ -43,10 +46,22 @@
 
 /****two-section strat***/
 .two-section{
+  background-image: url(img/bb1.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
   display: flex;
+}
+.head{
+  color: rgb(255, 0, 212) ;
 }
 /****two-section end***/
 /***therd-section strat***/
+.therd-section{
+  background-image: url(img/cc1.jpg);
+  background-position: center;
+  background-size: cover;
+}
 .text{
   font-size: 30px;
   color: red;
