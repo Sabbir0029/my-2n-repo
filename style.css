@@ -5,8 +5,8 @@
 }
 .one-section{
   display: flex;
-  height: 100vh;
   width: 100%;
+  margin-bottom: 150px;
 }
 .text-pic{
   width: 50%;
@@ -39,3 +39,10 @@
   font-weight: 700;
   color: white;
 }
+/****one-section end****/
+
+/****two-section strat***/
+.two-section{
+  display: flex;
+}
+/****two-section end***/
